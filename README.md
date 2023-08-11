@@ -16,4 +16,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emuhammad18&show_icons=true&locale=en&layout=compact" alt="emuhammad18" /></p>
 
-<p>&nbsp;<img align="center" src="https://github.com/waxacoder" alt="emuhammad18" /></p>
